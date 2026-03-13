@@ -34,7 +34,6 @@ Built by Wyatt Ramsey using AI as a technical co-builder to replace a manual spr
 
 ## Key Metrics (as of 2026)
 
-- $588K revenue in 2024, $645K active pipeline (52 jobs)
 - 84% close rate on qualified estimates
 - 1,100+ client contacts
 - 28,000+ job site photos indexed
